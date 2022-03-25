@@ -18,4 +18,4 @@ private:
     std::vector <Student> students;
 };
 
-#endif#pragma once
+#endif
